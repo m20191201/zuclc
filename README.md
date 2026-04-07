@@ -47,7 +47,7 @@ chsh -s $(which zsh)
 ### 3. Apply Configuration
 ```bash
 # Copy .zshrc to your home directory
-cp .zshrc ~/.zshrc
+cp zshrc ~/.zshrc
 
 # Reload ZSH
 source ~/.zshrc
